@@ -1,4 +1,3 @@
-```markdown
 # Summary: Trader Behavior vs Market Sentiment
 
 ## Methodology
